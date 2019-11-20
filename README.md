@@ -23,6 +23,6 @@ latihan 2
 latihan 3
 ![alt text](https://github.com/rezaalamsyah/GUI/blob/master/3%20lanjutan.png)
 ![alt text](https://github.com/rezaalamsyah/GUI/blob/master/3%20lanjutan%202.png)
-![alt text](https://github.com/rezaalamsyah/GUI/blob/master/3%20lanjutan%203.png)
+![alt text](https://github.com/rezaalamsyah/GUI/blob/master/3%20lanjutan%203%20.png)
 Uji coba
 ![alt text](https://github.com/rezaalamsyah/GUI/blob/master/ujicoba.png)
